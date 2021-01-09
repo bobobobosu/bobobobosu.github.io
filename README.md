@@ -4,10 +4,12 @@
     - [Table of contents](#table-of-contents)
   - [Favorite Programming Language](#favorite-programming-language)
   - [Favorite Code segment](#favorite-code-segment)
-  - [Favorite Course](#favorite-course)
+  - [Favorite Courses](#favorite-courses)
   - [Favorite Brands](#favorite-brands)
   - [Most Recent Drawing](#most-recent-drawing)
   - [TODO](#todo)
+  - [My Password](#my-password)
+  - [License](#license)
 
 ## Favorite Programming Language    
 My favorite programming languages are *Python*, *Haskell* and *C++*.\
@@ -35,7 +37,7 @@ quicksort (p:xs) = (quicksort lesser) ++ [p] ++ (quicksort greater)
 
 This is copied from [Haskell Website](https://wiki.haskell.org/Introduction#Quicksort_in_Haskell).
 
-## Favorite Course
+## Favorite Courses
 - CSE 100
 - CSE 130
 - CSE 152A
@@ -52,3 +54,22 @@ This is copied from [Haskell Website](https://wiki.haskell.org/Introduction#Quic
 - [x] code
 - [ ] eat
 - [ ] sleep
+
+## My Password
+<table>
+<thead>
+<tr>
+<th>1~5</th>
+<th>6~10</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>efref</td>
+<td>32r2c</td>
+</tr>
+</tbody>
+</table>
+
+## License
+[don't waste your time reading this plz](LICENSE.txt).
