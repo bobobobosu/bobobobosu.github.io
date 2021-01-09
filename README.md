@@ -19,7 +19,7 @@ I **LOVE** *C++* because it is ***fast*** \
 <sub><sup>you can't see this but I hate java becuz it is soo slow <sub><sup>
 
 
-But father of Linux **Linus Torvalds** seems not to prefer any of the above. He said this in his interview 
+But father of Linux **_Linus Torvalds_** seems not to prefer any of the above. He said this in his interview 
 >It's not that I dislike things like perl/python,
 it's just that I tend to either just write C,
 or do _so_ simple things that shell works fine for me.
