@@ -35,7 +35,7 @@ My expertise lies in motion planning and trajectory optimization, with a strong 
 - **Human-Robot Collaboration**: Creating systems where robots learn from physical human feedback
 - **Tactile Sensing**: Developing electronic textile skins for safer robot control
 - **Multi-Robot Coordination**: Optimizing workcell layouts and trajectories for industrial applications
-- **Motion Planning**: Implementing kinodynamic motion planners for humanoid robots
+- **Motion Planning**: Implementing kinodynamic motion planners for manipulators
 
 ## Education
 
