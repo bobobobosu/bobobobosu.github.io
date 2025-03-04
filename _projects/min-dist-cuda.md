@@ -7,8 +7,6 @@ importance: 3
 category: work
 ---
 
-# Parallel Minimum Distance Query Among Convex Meshes
-
 This project presents a parallel approach to measure the closest distance between 3D convex shapes, an important task in computer graphics and robotics. The CUDA implementation of GJK algorithm achieved a 20x speedup over the CPU implementation with the same scene.
 
 ## Real-World Application
