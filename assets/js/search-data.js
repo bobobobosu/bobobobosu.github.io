@@ -418,6 +418,11 @@ ninja.data = [{
           description: "Recovering distorted drawings from touch screens using IMU",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nodistort/";
+            },},{id: "projects-opa",
+          title: 'OPA',
+          description: "Learning from Physical Human Feedback: An Object-Centric One-Shot Adaptation Method",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/opa/";
             },},{id: "projects-robot-layout-optimization",
           title: 'Robot Layout Optimization',
           description: "Workload-driven warehouse layout optimization",
