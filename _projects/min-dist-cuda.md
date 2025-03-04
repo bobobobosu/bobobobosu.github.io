@@ -33,8 +33,8 @@ For more detailed information about the implementation and performance analysis,
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <a href="{{ '/assets/pdf/min-dist-cuda/report.pdf' | relative_url }}" target="_blank">
-            <button class="btn btn-primary">View Technical Report</button>
+        <a href="/assets/pdf/min-dist-cuda/report.pdf" target="_blank">
+            <button class="btn btn-primary">View Implementation Details</button>
         </a>
     </div>
 </div>

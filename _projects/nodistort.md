@@ -15,12 +15,11 @@ This was my high school science fair project that won the Gold Medal at the Macr
 Visit our detailed project report:
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <a href="{{ '/assets/pdf/nodistort/13413_TISF2017-190016.pdf' | relative_url }}" target="_blank">
-            <button class="btn btn-primary">View Project Report</button>
+        <a href="/assets/pdf/nodistort/report.pdf" target="_blank">
+            <button class="btn btn-primary">View Implementation Details</button>
         </a>
     </div>
 </div>
-
 
 ## Why NoDistort may be useful
 NoDistort is particularly useful as it significantly improves the usability and accuracy of touchscreen devices in unstable or mobile environments. This technology is beneficial for users who need to write or draw on their devices while in motion, such as in a vehicle or walking. By compensating for movement-related distortions, it ensures legibility and precision in digital handwriting, enhancing the overall user experience.

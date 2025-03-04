@@ -76,9 +76,10 @@ FPGAs, with their reconfigurable logic, enable fine-grained load balancing acros
 
 ## FPGA Implementation
 Please refer to the following slides for the FPGA implementation details:
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <a href="{{ '/assets/pdf/FPGA_sdf.pdf' | relative_url }}" target="_blank">
+        <a href="/assets/pdf/FPGA_sdf.pdf" target="_blank">
             <button class="btn btn-primary">View Implementation Details</button>
         </a>
     </div>
