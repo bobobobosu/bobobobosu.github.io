@@ -34,7 +34,7 @@
       "url": "",
       "startDate": "2024-05-01",
       "endDate": "",
-      "location": "Taipei, Taiwan",
+      "location": "Remote",
       "summary": "Building automated MIG welding systems with industrial robots",
       "highlights": ["Built automated MIG welding system with manipulator and rotary stage achieving 1mm precision using only coarse 3D models. Implemented complete perception-planning-control stack with real-time trajectory optimization that adapts to detected surface variations and ensures optimal gun angle along the weld path for high quality welds."]
     },
